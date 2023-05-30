@@ -1,0 +1,433 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-03 10:12+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: jobhunt-indeed-jobs.php:93
+msgid ""
+"<em><b>Job Hunt Indeed Jobs</b></em> needs the <b>Job Hunt</b> plugin. "
+"Please install and activate it."
+msgstr ""
+
+#: jobhunt-indeed-jobs.php:120
+msgid "Indeed Job Fields"
+msgstr ""
+
+#: jobhunt-indeed-jobs.php:130
+msgid "Job Detail Url"
+msgstr ""
+
+#: jobhunt-indeed-jobs.php:144
+msgid "Company Name"
+msgstr ""
+
+#: jobhunt-indeed-jobs.php:162 jobhunt-indeed-jobs.php:162
+#: jobhunt-indeed-jobs.php:172 jobhunt-indeed-jobs.php:346
+msgid "Import Indeed Jobs"
+msgstr ""
+
+#: jobhunt-indeed-jobs.php:173
+msgid "Indeed jobs are imported successfully."
+msgstr ""
+
+#: jobhunt-indeed-jobs.php:174
+msgid "Please enter publisher number to import jobs from Indeed."
+msgstr ""
+
+#: jobhunt-indeed-jobs.php:180
+msgid "Publisher Number"
+msgstr ""
+
+#: jobhunt-indeed-jobs.php:182
+msgid "Enter publisher number to import search jobs from Indeed."
+msgstr ""
+
+#: jobhunt-indeed-jobs.php:195
+msgid "Keywords"
+msgstr ""
+
+#: jobhunt-indeed-jobs.php:197
+msgid "Enter job title, keywords or company name. Default keyword is all."
+msgstr ""
+
+#: jobhunt-indeed-jobs.php:217
+msgid "Country"
+msgstr ""
+
+#: jobhunt-indeed-jobs.php:219
+msgid "Enter a country for search."
+msgstr ""
+
+#: jobhunt-indeed-jobs.php:233
+msgid "Location"
+msgstr ""
+
+#: jobhunt-indeed-jobs.php:235
+msgid "Enter a location for search."
+msgstr ""
+
+#: jobhunt-indeed-jobs.php:248 jobhunt-indeed-jobs.php:531
+msgid "Job Type"
+msgstr ""
+
+#: jobhunt-indeed-jobs.php:250
+msgid "Choose which type of job to query."
+msgstr ""
+
+#: jobhunt-indeed-jobs.php:258 jobhunt-indeed-jobs.php:370
+msgid "Full Time"
+msgstr ""
+
+#: jobhunt-indeed-jobs.php:259 jobhunt-indeed-jobs.php:373
+msgid "Part Time"
+msgstr ""
+
+#: jobhunt-indeed-jobs.php:260 jobhunt-indeed-jobs.php:376
+msgid "Contract"
+msgstr ""
+
+#: jobhunt-indeed-jobs.php:261 jobhunt-indeed-jobs.php:379
+msgid "Internship"
+msgstr ""
+
+#: jobhunt-indeed-jobs.php:262 jobhunt-indeed-jobs.php:382
+msgid "Temporary"
+msgstr ""
+
+#: jobhunt-indeed-jobs.php:270
+msgid "Sort By"
+msgstr ""
+
+#: jobhunt-indeed-jobs.php:272
+msgid "Choose sort query results by Date/Relevance."
+msgstr ""
+
+#: jobhunt-indeed-jobs.php:280
+msgid "Date"
+msgstr ""
+
+#: jobhunt-indeed-jobs.php:281
+msgid "Relevance"
+msgstr ""
+
+#: jobhunt-indeed-jobs.php:289
+msgid "No. of Import Jobs"
+msgstr ""
+
+#: jobhunt-indeed-jobs.php:291
+msgid "Enter number of jobs to import. Default number of import jobs is 10."
+msgstr ""
+
+#: jobhunt-indeed-jobs.php:304
+msgid "Expired on"
+msgstr ""
+
+#: jobhunt-indeed-jobs.php:306
+msgid ""
+"Enter number of days (numeric format) for expiray date after job posted date."
+msgstr ""
+
+#: jobhunt-indeed-jobs.php:324
+msgid "Posted by"
+msgstr ""
+
+#: jobhunt-indeed-jobs.php:326
+msgid "Choose import jobs posted username from this dropdown"
+msgstr ""
+
+#: jobhunt-indeed-jobs.php:418
+msgid "Sorry! There are no jobs found for your search query."
+msgstr ""
+
+#: jobhunt-indeed-jobs.php:484
+msgid "indeed"
+msgstr ""
+
+#: jobhunt-indeed-jobs.php:533
+msgid "Choose job type for view only indeed or all jobs"
+msgstr ""
+
+#: jobhunt-indeed-jobs.php:541
+msgid "All"
+msgstr ""
+
+#: jobhunt-indeed-jobs.php:542
+msgid "Inddeed Only"
+msgstr ""
+
+#: includes/class-jobhunt-job-frontend-view.php:85
+#: includes/class-jobhunt-job-frontend-view.php:145
+#: includes/class-jobhunt-job-frontend-view.php:206
+#: includes/class-jobhunt-job-frontend-view.php:259
+msgid "Post Date: "
+msgstr ""
+
+#: includes/class-jobhunt-job-frontend-view.php:153
+#: includes/class-jobhunt-job-frontend-view.php:304
+msgid "Views"
+msgstr ""
+
+#: includes/class-jobhunt-job-frontend-view.php:295
+msgid "Post date "
+msgstr ""
+
+#: includes/class-jobhunt-job-frontend-view.php:325
+msgid "View More"
+msgstr ""
+
+#: includes/class-jobhunt-job-frontend-view.php:407
+#: includes/class-jobhunt-job-frontend-view.php:505
+msgid "Indeed Related Jobs"
+msgstr ""
+
+#: includes/class-jobhunt-job-frontend-view.php:424
+msgid " on"
+msgstr ""
+
+#: includes/class-jobhunt-job-frontend-view.php:517
+msgid "Posted on "
+msgstr ""
+
+#: includes/class-jobhunt-job-frontend-view.php:524
+msgid "by "
+msgstr ""
+
+#: includes/class-jobhunt-indeed-api.php:54
+msgid "United States"
+msgstr ""
+
+#: includes/class-jobhunt-indeed-api.php:55
+msgid "Argentina"
+msgstr ""
+
+#: includes/class-jobhunt-indeed-api.php:56
+msgid "Australia"
+msgstr ""
+
+#: includes/class-jobhunt-indeed-api.php:57
+msgid "Austria"
+msgstr ""
+
+#: includes/class-jobhunt-indeed-api.php:58
+msgid "Bahrain"
+msgstr ""
+
+#: includes/class-jobhunt-indeed-api.php:59
+msgid "Belgium"
+msgstr ""
+
+#: includes/class-jobhunt-indeed-api.php:60
+msgid "Brazil"
+msgstr ""
+
+#: includes/class-jobhunt-indeed-api.php:61
+msgid "Canada"
+msgstr ""
+
+#: includes/class-jobhunt-indeed-api.php:62
+msgid "Chile"
+msgstr ""
+
+#: includes/class-jobhunt-indeed-api.php:63
+msgid "China"
+msgstr ""
+
+#: includes/class-jobhunt-indeed-api.php:64
+msgid "Colombia"
+msgstr ""
+
+#: includes/class-jobhunt-indeed-api.php:65
+msgid "Czech Republic"
+msgstr ""
+
+#: includes/class-jobhunt-indeed-api.php:66
+msgid "Denmark"
+msgstr ""
+
+#: includes/class-jobhunt-indeed-api.php:67
+msgid "Finland"
+msgstr ""
+
+#: includes/class-jobhunt-indeed-api.php:68
+msgid "France"
+msgstr ""
+
+#: includes/class-jobhunt-indeed-api.php:69
+msgid "Germany"
+msgstr ""
+
+#: includes/class-jobhunt-indeed-api.php:70
+msgid "Greece"
+msgstr ""
+
+#: includes/class-jobhunt-indeed-api.php:71
+msgid "Hong Kong"
+msgstr ""
+
+#: includes/class-jobhunt-indeed-api.php:72
+msgid "Hungary"
+msgstr ""
+
+#: includes/class-jobhunt-indeed-api.php:73
+msgid "India"
+msgstr ""
+
+#: includes/class-jobhunt-indeed-api.php:74
+msgid "Indonesia"
+msgstr ""
+
+#: includes/class-jobhunt-indeed-api.php:75
+msgid "Ireland"
+msgstr ""
+
+#: includes/class-jobhunt-indeed-api.php:76
+msgid "Israel"
+msgstr ""
+
+#: includes/class-jobhunt-indeed-api.php:77
+msgid "Italy"
+msgstr ""
+
+#: includes/class-jobhunt-indeed-api.php:78
+msgid "Japan"
+msgstr ""
+
+#: includes/class-jobhunt-indeed-api.php:79
+msgid "Korea"
+msgstr ""
+
+#: includes/class-jobhunt-indeed-api.php:80
+msgid "Kuwait"
+msgstr ""
+
+#: includes/class-jobhunt-indeed-api.php:81
+msgid "Luxembourg"
+msgstr ""
+
+#: includes/class-jobhunt-indeed-api.php:82
+msgid "Malaysia"
+msgstr ""
+
+#: includes/class-jobhunt-indeed-api.php:83
+msgid "Mexico"
+msgstr ""
+
+#: includes/class-jobhunt-indeed-api.php:84
+msgid "Netherlands"
+msgstr ""
+
+#: includes/class-jobhunt-indeed-api.php:85
+msgid "New Zealand"
+msgstr ""
+
+#: includes/class-jobhunt-indeed-api.php:86
+msgid "Norway"
+msgstr ""
+
+#: includes/class-jobhunt-indeed-api.php:87
+msgid "Oman"
+msgstr ""
+
+#: includes/class-jobhunt-indeed-api.php:88
+msgid "Pakistan"
+msgstr ""
+
+#: includes/class-jobhunt-indeed-api.php:89
+msgid "Peru"
+msgstr ""
+
+#: includes/class-jobhunt-indeed-api.php:90
+msgid "Philippines"
+msgstr ""
+
+#: includes/class-jobhunt-indeed-api.php:91
+msgid "Poland"
+msgstr ""
+
+#: includes/class-jobhunt-indeed-api.php:92
+msgid "Portugal"
+msgstr ""
+
+#: includes/class-jobhunt-indeed-api.php:93
+msgid "Qatar"
+msgstr ""
+
+#: includes/class-jobhunt-indeed-api.php:94
+msgid "Romania"
+msgstr ""
+
+#: includes/class-jobhunt-indeed-api.php:95
+msgid "Russia"
+msgstr ""
+
+#: includes/class-jobhunt-indeed-api.php:96
+msgid "Saudi Arabia"
+msgstr ""
+
+#: includes/class-jobhunt-indeed-api.php:97
+msgid "Singapore"
+msgstr ""
+
+#: includes/class-jobhunt-indeed-api.php:98
+msgid "South Africa"
+msgstr ""
+
+#: includes/class-jobhunt-indeed-api.php:99
+msgid "Spain"
+msgstr ""
+
+#: includes/class-jobhunt-indeed-api.php:100
+msgid "Sweden"
+msgstr ""
+
+#: includes/class-jobhunt-indeed-api.php:101
+msgid "Switzerland"
+msgstr ""
+
+#: includes/class-jobhunt-indeed-api.php:102
+msgid "Taiwan"
+msgstr ""
+
+#: includes/class-jobhunt-indeed-api.php:103
+msgid "Turkey"
+msgstr ""
+
+#: includes/class-jobhunt-indeed-api.php:104
+msgid "United Arab Emirates"
+msgstr ""
+
+#: includes/class-jobhunt-indeed-api.php:105
+msgid "United Kingdom"
+msgstr ""
+
+#: includes/class-jobhunt-indeed-api.php:106
+msgid "Venezuela"
+msgstr ""
+
+#. Name of the plugin
+msgid "JobHunt Indeed Jobs"
+msgstr ""
+
+#. Description of the plugin
+msgid "Job Hunt Import Indeed Jobs Add on"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://themeforest.net/user/Chimpstudio/"
+msgstr ""
+
+#. Author of the plugin
+msgid "ChimpStudio"
+msgstr ""
