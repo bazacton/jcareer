@@ -1,0 +1,4 @@
+[04-Mar-2019 15:01:26 UTC] PHP Fatal error:  Call to undefined function get_option() in /home/group/public_html/wp-demo/jobcareer/wp-content/plugins/wp-jobhunt/templates/elements/login/cs-social-login/facebook/callback.php on line 5
+[12-Mar-2019 12:26:04 UTC] PHP Fatal error:  Call to undefined function get_option() in /home/group/public_html/wp-demo/jobcareer/wp-content/plugins/wp-jobhunt/templates/elements/login/cs-social-login/facebook/callback.php on line 5
+[16-Mar-2019 13:07:54 UTC] PHP Fatal error:  Call to undefined function get_option() in /home/group/public_html/wp-demo/jobcareer/wp-content/plugins/wp-jobhunt/templates/elements/login/cs-social-login/facebook/callback.php on line 5
+[14-Apr-2019 09:41:06 UTC] PHP Fatal error:  Call to undefined function get_option() in /home/group/public_html/wp-demo/jobcareer/wp-content/plugins/wp-jobhunt/templates/elements/login/cs-social-login/facebook/callback.php on line 5
