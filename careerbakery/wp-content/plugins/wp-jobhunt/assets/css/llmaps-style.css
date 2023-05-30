@@ -1,0 +1,27 @@
+.llmaps-autocomplete{
+    position: absolute;
+    z-index: 9999999;
+}
+
+.llmaps-autocomplete ul {
+    background: #efefef;
+    padding: 2px 0;
+}
+
+.llmaps-autocomplete ul li {
+    padding: 5px 5px;
+    background: #fff;
+    margin: 0 2px 3px 3px;
+    cursor: pointer;
+}
+
+.llmaps-autocomplete ul li:hover {
+    background: #efefef;
+}
+
+.leaflet-container a.leaflet-popup-close-button{
+    z-index: 999999;
+}
+.leaflet-popup-tip{display:none;}
+
+.leaflet-bottom.leaflet-right{ z-index: 1;}
