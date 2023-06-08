@@ -1,5 +1,5 @@
 
-.container {width:1170px }
+.container {width:1170px !important}
 .cs-color,
 .wp-jobhunt .cs-listing-filters .select-location .pop i,
 .cs-fancy-menu ul li:hover a i, 
@@ -113,7 +113,7 @@ footer#footer .widget-contact-information .widgettext address a,
 .wp-jobhunt .jobs-listing.modern-v2 .jobs-content li span,
 .wp-jobhunt .jobs-listing.modern-v3 .apply-btn, .wp-jobhunt .join-us .join-us
 {
-color:#55a747 ;
+color:#f26522 !important;
 }
 .cs-bgcolor,
 .jobhunt-language-switcher-fields input[type="radio"]:checked ~ label:before, 
@@ -170,10 +170,10 @@ ul.post-step li.active h3 a i,
 .wp-jobhunt .custom-listing input[type=checkbox]:checked + label:before, .woocommerce .checkout_coupon button.button,
 .woocommerce .woocommerce-form button.button, .wp-jobhunt .main-head .cs-login-dropdown ul li a:hover, .widget_search .wp-block-search__button, .wp-jobhunt .search-btn input[type="submit"], .wp-jobhunt .search-btn button,
 .wp-jobhunt .cs-candidate-list .cs-button, .wp-jobhunt .jobs-listing.modern .list-options .shortlist{
-background-color:#55a747 ;
+background-color:#f26522 !important;
 }
 .cookiealert{
-background:#55a747 ;
+background:#f26522 !important;
 }
 .csborder-color, 
 .jobhunt-language-switcher-fields input[type="radio"]:checked ~ label:before, 
@@ -216,13 +216,13 @@ ul.resumes-list li .cs-text .cs-posted span, ul.select-card li.active,
 .widget.widget-text.widget-contact-information ul.social-media a, .wp-jobhunt ul.cs-pricetable.fancy .pricetable-holder .price-holder a:hover,
 .wp-jobhunt .cs-jobs-holder .jobs-listing .job-post .jobtype-btn:hover
 {
-border-color:#55a747 ;
+border-color:#f26522 !important;
 }
 .wp-jobhunt .pricetable-holder.classic{
-border-top-color:#55a747 ;
+border-top-color:#f26522 !important;
 }
 body,.main-section p, .mce-content-body p {
-font:Normal  13px/23px "Montserrat", sans-serif !important;letter-spacing: 0px ;text-transform: none ;color: #757575 ;            }
+font:Normal  14px/23px "Varela Round", sans-serif !important;letter-spacing: 0.5px !important;text-transform: none !important;color: #555555 !important;            }
 header .logo{
 margin-top:6px;
 margin-right:0px;
@@ -230,41 +230,37 @@ margin-bottom:10px;
 margin-left:0px;
 }
 #header .navigation > ul > li > a, #header .navigation > ul > li{
-font:Normal  12px/19px "Montserrat", sans-serif !important;letter-spacing: 0px ;text-transform: uppercase ;            }
+font:Normal  13px/30px "Varela Round", sans-serif !important;letter-spacing: 1px !important;text-transform: capitalize !important;            }
 h1, h1 a{
-font:700 Normal  24px/24px "Raleway", sans-serif !important;letter-spacing: 1px ;text-transform: uppercase ;color: #424242 ;}
+font:Normal  24px/24px "Varela Round", sans-serif !important;letter-spacing: 1px !important;text-transform: none !important;color: #424242 !important;}
 h2, h2 a{
-font:700 Normal  22px/44px "Raleway", sans-serif !important;letter-spacing: 1px ;text-transform: none ;color: #424242 ;            }
+font:Normal  22px/44px "Varela Round", sans-serif !important;letter-spacing: 1px !important;text-transform: none !important;color: #2d2d2d !important;            }
 h3, h3 a{ 
-font:700 Normal  20px/28px "Raleway", sans-serif !important;letter-spacing: 1px ;text-transform: uppercase ;color: #424242 ;            }
+font:Normal  20px/28px "Varela Round", sans-serif !important;letter-spacing: 1px !important;text-transform: none !important;color: #424242 !important;            }
 h4, h4 a{
-font:700 Normal  18px/18px "Raleway", sans-serif !important;letter-spacing: 1px ;text-transform: uppercase ;color: #424242 ;            }
+font:Normal  18px/18px "Varela Round", sans-serif !important;letter-spacing: 1px !important;text-transform: capitalize !important;color: #424242 !important;            }
 h5, h5 a{
-font:700 Normal  16px/25px "Raleway", sans-serif !important;letter-spacing: 1px ;text-transform: uppercase ;color: #424242 ;            }
+font:Normal  16px/25px "Varela Round", sans-serif !important;letter-spacing: 1px !important;text-transform: none !important;color: #424242 !important;            }
 h6, h6 a{
-font:700 Normal  14px/20px "Raleway", sans-serif !important;letter-spacing: 1px ;text-transform: uppercase ;color: #424242 ;            }
+font:Normal  14px/20px "Varela Round", sans-serif !important;letter-spacing: 1px !important;text-transform: none !important;color: #424242 !important;            }
 .cs-element-title h2{
-font:700 Normal  20px/28px "Raleway", sans-serif !important;letter-spacing: 1px ;text-transform: uppercase ;            }
+font:Normal  30px/28px "Varela Round", sans-serif !important;letter-spacing: 1px !important;text-transform: none !important;            }
 .cs-post-title h3 a, .cs-post-title h2 a{
-font:700 Normal  16px/28px "Raleway", sans-serif !important;letter-spacing: 1px ;text-transform: uppercase ;            }
+font:600 Normal  16px/28px "Raleway", sans-serif !important;letter-spacing: 1px !important;text-transform: none !important;            }
 .cs-page-title h1{
-font:700 Normal  30px/45px "Raleway", sans-serif !important;letter-spacing: 1px ;text-transform: uppercase ;color: #ffffff ;            }
+font:600 Normal  46px/45px "Raleway", sans-serif !important;letter-spacing: 1px !important;text-transform: none !important;color: #ffffff !important;            }
 .widget .widget-title h5{
-font:700 Normal  13px/19.5px "Raleway", sans-serif !important;letter-spacing: 1px ;text-transform: uppercase ;            }
-#footer .widget-title h5{ color: #ffffff ;}
+font:600 Normal  16px/19.5px "Raleway", sans-serif !important;letter-spacing: 1px !important;text-transform: none !important;            }
+#footer .widget-title h5{ color: #ffffff !important;}
 #footer .widget-title h5{
-font:700 Normal  13px/16px "Raleway", sans-serif !important;letter-spacing: 1px ;text-transform: uppercase ;color: #ffffff ;            }
-.dropdown-menu h6 a{color:#f2f2f2 ;}
-.logo-section,#header,.main-head{background:#ffffff ; 
-}
+font:Normal  20px/22px "Varela Round", sans-serif !important;letter-spacing: 0px !important;text-transform: none !important;color: #ffffff !important;            }
+.dropdown-menu h6 a{color:#f2f2f2 !important;}
 .main-head{
-padding:20px ;
+padding:25px !important;
 }
-.main-navbar,#main-header .btn-style1,.wrapper:before {background:#fff ;}
-.navigation, #header.dark-header {background:#fff ;}
-.dropdown-menu { background-color:#1f1f1f ;}
-.navigation > ul > li > ul li > a {color:#bebebe ;}
-.navigation > ul ul li > a:hover {color:#55A747 ;}
+.dropdown-menu { background-color:#1f1f1f !important;}
+.navigation > ul > li > ul li > a {color:#bebebe !important;}
+.navigation > ul ul li > a:hover {color:#f26522 !important;}
 .navigation > ul > li:hover > a, 
 .navigation > ul > li.current-menu-ancestor > a, 
 .navigation > ul > li.current-menu-parent > a, 
@@ -272,49 +268,52 @@ padding:20px ;
 .navigation > ul > li.current-menu-parent > ul.sub-dropdown > , 
 .navigation ul li ul.sub-dropdown li.current-menu-parent.current-menu-parent > a, 
 .navigation ul li ul.sub-dropdown li.current-menu-parent ul.sub-dropdown{
-color: ;
+color: !important;
 }
-.sub-dropdown:before {border-bottom:8px solid #55A747 ;}
-.navigation > ul > li.parentIcon:hover > a:before { background-color:#55A747 ; }
-.navigation > ul > li > a, #nav-icon2 i, #header.cs-transparent-header .search-bar i, #header.cs-transparent-header .join-us > a, header#header.cs-transparent-header .login > a, header#header.cs-transparent-header .wish-list a i { color:#555555 ; }
-#header.cs-transparent-header .navicon, #header.cs-transparent-header .navicon::before, #header.cs-transparent-header .navicon::after{ background:#555555 ; }
-#header.cs-transparent-header .join-us > a, header#header.cs-transparent-header .login > a { border-color:#555555 ; background:none ; }
-.cs-user,.cs-user-login { border-color:#55A747 ; }
+.sub-dropdown:before {border-bottom:8px solid #f26522 !important;}
+.navigation > ul > li.parentIcon:hover > a:before { background-color:#f26522 !important; }
+.navigation > ul > li > a, #nav-icon2 i, #header.cs-transparent-header .search-bar i, #header.cs-transparent-header .join-us > a, header#header.cs-transparent-header .login > a, header#header.cs-transparent-header .wish-list a i { color:#ffffff !important; }
+#header.cs-transparent-header .navicon, #header.cs-transparent-header .navicon::before, #header.cs-transparent-header .navicon::after{ background:#ffffff !important; }
+#header.cs-transparent-header .join-us > a, header#header.cs-transparent-header .login > a { border-color:#ffffff !important; background:none !important; }
+.cs-user,.cs-user-login { border-color:#f26522 !important; }
 .page-sidebar .widget-title h3, .page-sidebar .widget-title h4, .page-sidebar .widget-title h5, .page-sidebar .widget-title h6{
-color:#333333 ;
+color:#333333 !important;
 }            .section-sidebar .widget-title h3, .section-sidebar .widget-title h4, .section-sidebar .widget-title h5, .section-sidebar .widget-title h6{
-color:#333333 ;
+color:#333333 !important;
 }
+.cs-copyright-area, #footer .cs-footer.fancy-footer .footer-top, .cs-footer.modern-footer .footer-top {border-top:1px solid #58585a !important;}
+.cs-footer.modern-footer .cs-copyright .back-to-top a:before,
+.cs-footer.modern-footer .cs-copyright .back-to-top a:after {background: #58585a !important;}
 #header .top-bar {
-color:#999999 ;
+color:#999999 !important;
 }
 #header .top-bar a {
-color:#999999 ;
+color:#999999 !important;
 }
 #header .top-bar a:hover {
-color:#999999 ;
+color:#999999 !important;
 }
 #header .top-bar .social-media a:hover i {
-color:#999999 ;
+color:#999999 !important;
 }
 #header .top-bar .social-media a i {
-color:#999999 ;
+color:#999999 !important;
 }
-footer#footer p, footer#footer span, footer#footer .textwidget{color:#ffffff ;}
+footer#footer p, footer#footer span, footer#footer .textwidget{color:#d1d1d1 !important;}
 .widget-newsletter .fieldset .cs-mailchimp {
-border-radius: 0px ;
-background-color: transparent ;
-border: none ; }
+border-radius: 0px !important;
+background-color: transparent !important;
+border: none !important; }
 .footer-top, #footer .footer-v3 .cs-copyright {
-background-color:#25262a ;
+background-color:#58585a !important;
 }
-.footer-links,.footer-links a{color:#8e9198 ;}
-.footer-btm {background-color:#1e1f21 ;}
+.footer-links,.footer-links a{color:#d1d1d1 !important;}
+.footer-btm {background-color:#505053 !important;}
 #footer  .copyrights{
-color:#8e9198 ;
+color:#d1d1d1 !important;
 }
 footer#footer a, .footer-nav li a, .cs-footer .widget ul li a:before  {
-color:#8e9198 ;
+color:#d1d1d1 !important;
 }            .footer-nav li::before  {
-background-color:#8e9198 ;
-}            footer#footer .footer-links a.footer#footer .footer-link {color:#8e9198 ;}
+background-color:#d1d1d1 !important;
+}            footer#footer .footer-links a.footer#footer .footer-link {color:#d1d1d1 !important;}
