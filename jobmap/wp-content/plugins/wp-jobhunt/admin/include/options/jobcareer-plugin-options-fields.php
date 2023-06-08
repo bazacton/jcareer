@@ -1,6 +1,6 @@
-<?php if (!class_exists('jobcareer8483uilder_options_fields')) {
+<?php if (!class_exists('jobcareer6894jobmap_options_fields')) {
 
-    class jobcareer8483uilder_options_fields {
+    class jobcareer6894jobmap_options_fields {
 
 	public function __construct() {
 	    
@@ -9,7 +9,7 @@
 	/**
 	 * Start Function  how to create Fields Settings
 	 */
-	public function jobcareer8483uilder_cs_fields($cs_setting_options) {
+	public function jobcareer6894jobmap_cs_fields($cs_setting_options) {
 	    global $cs_plugin_options, $cs_form_fields2, $cs_html_fields, $help_text, $col_heading;
 
 	    $cs_plugin_options = get_option('cs_plugin_options');
