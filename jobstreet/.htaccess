@@ -6,11 +6,11 @@
 <IfModule mod_rewrite.c>
 RewriteEngine On
 RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
-RewriteBase /careerbuilder/
+RewriteBase /jobstreet/
 RewriteRule ^index\.php$ - [L]
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule . /careerbuilder/index.php [L]
+RewriteRule . /jobstreet/index.php [L]
 </IfModule>
 
 # END WordPress
