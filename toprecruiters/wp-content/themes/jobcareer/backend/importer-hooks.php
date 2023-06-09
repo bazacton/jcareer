@@ -125,7 +125,7 @@ if ( ! function_exists( 'cs_import_setup_pages_handle' ) ) {
 			update_option( 'show_on_front', 'page' );
                         $element_data = get_post_meta(548, '_elementor_data', true);
                         update_option('test_elementor_data_testing', $element_data);
-                         do_action('jobcareer_after_demo_content_import', $this->demo_data_name);
+                         do_action('jobcareer_after_demo_content_import', $obj->demo_data_name);
 			$obj->action_return = true;
 		} else {
 			$obj->action_return = false;
